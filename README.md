@@ -11,7 +11,7 @@ Support Magento 2.2.\* || 2.3.\*
 ```
 composer require unbxd/magento2-search
 php bin/magento module:enable Unbxd_ProductFeed
-php bin/magento module:enable Unbxd_Analytics
+php bin/magento module:enable Unbxd_SearchJs
 php bin/magento module:enable Unbxd_Search
 php bin/magento setup:upgrade
 php bin/magento setup:di:compile
@@ -20,20 +20,20 @@ php bin/magento cache:flush
 
 ### Manual installation
 
-1. Download module Unbxd_ProductFeed [Link](https://github.com/unbxd/Magento-2-Extension/archive/1.0.13.zip)
-1. Download module Unbxd_Analytics [Link](https://github.com/unbxd/Magento-2-Analytics/archive/1.0.1.zip)
-2. Download this module [Link](https://github.com/unbxd/Magento-Search-Module/archive/1.0.0.zip)
+1. Download module Unbxd_ProductFeed [Link](https://github.com/unbxd/Magento-2-Extension/archive/1.0.61.zip)
+1. Download module Unbxd_SearchJs [Link](https://github.com/unbxd/Magento-2-Search/archive/1.0.0.zip)
+2. Download this module [Link](https://github.com/unbxd/Magento-Search-Module/archive/1.0.1.zip)
 3. Unzip modules in the folders:
 
     app\code\Unbxd\ProductFeed  
-    app\code\Unbxd\Analytics  
+    app\code\Unbxd\SearchJs  
     app\code\Unbxd\Search
 
 4. Access the root of you Magento 2 instance from command line and run the following commands:
 
 ```
 php bin/magento module:enable Unbxd_ProductFeed
-php bin/magento module:enable Unbxd_Analytics
+php bin/magento module:enable Unbxd_SearchJs
 php bin/magento module:enable Unbxd_Search
 php bin/magento setup:upgrade
 php bin/magento setup:di:compile

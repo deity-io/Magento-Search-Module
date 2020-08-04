@@ -14,11 +14,11 @@
  */
 -->
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
-    <module name="Unbxd_Search" setup_version="1.0.0">
+    <module name="Unbxd_Search" setup_version="1.0.1">
         <sequence>
             <module name="Magento_Theme"/>
             <module name="Unbxd_ProductFeed"/>
-            <module name="Unbxd_Analytics"/>
+            <module name="Unbxd_SearchJs"/>
         </sequence>
     </module>
 </config>
