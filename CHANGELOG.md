@@ -1,4 +1,10 @@
-# Version 1.0.1
+# Version 1.0.3
+## 1.0.3 - August 16, 2020
+### Feature
+- updated support for 7.3.0 php version
+## 1.0.2 - August 11, 2020
+### Feature
+- released a new tag for search.
 ## 1.0.1 - August 04, 2020
 ### Feature
 - Released features to support search, autosuggest, browse and analytics component
