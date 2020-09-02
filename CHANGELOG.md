@@ -1,5 +1,9 @@
-# Version 1.0.4
-## 1.0.3 - September 2, 2020
+# Version 1.0.5
+## 1.0.5 - September 3, 2020
+### Feature
+- Added SearchJS module version notification on console
+- Added support to IE browsers
+## 1.0.4 - September 2, 2020
 ### Feature
 - Released SearchJS support for JS SDK version 0.1.4
 ## 1.0.3 - August 16, 2020
