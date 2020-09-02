@@ -1,4 +1,7 @@
-# Version 1.0.3
+# Version 1.0.4
+## 1.0.3 - September 2, 2020
+### Feature
+- Released SearchJS support for JS SDK version 0.1.4
 ## 1.0.3 - August 16, 2020
 ### Feature
 - updated support for 7.3.0 php version
