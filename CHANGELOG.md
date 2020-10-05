@@ -1,4 +1,8 @@
-# Version 1.0.5
+# Version 1.0.6
+## 1.0.6 - October 5, 2020
+### Feature
+- Magento version 2.4 support
+- Added widget container configuration in recommendation widgets
 ## 1.0.5 - September 3, 2020
 ### Feature
 - Added SearchJS module version notification on console

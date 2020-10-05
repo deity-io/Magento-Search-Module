@@ -2,7 +2,7 @@
 
 The Magento 2 module, which provides the ability to search the site using the Unbxd service
 
-Support Magento 2.2.\* || 2.3.\*
+Support Magento 2.2.\* || 2.3.\* || 2.4.\*
 
 # Installation Guide
 
@@ -22,7 +22,7 @@ php bin/magento cache:flush
 
 1. Download module Unbxd_ProductFeed [Link](https://github.com/unbxd/Magento-2-Extension/archive/1.0.67.zip)
 1. Download module Unbxd_SearchJs [Link](https://github.com/unbxd/Magento-2-Search/archive/1.0.4.zip)
-2. Download this module [Link](https://github.com/unbxd/Magento-Search-Module/archive/1.0.5.zip)
+2. Download this module [Link](https://github.com/unbxd/Magento-Search-Module/archive/1.0.6.zip)
 3. Unzip modules in the folders:
 
     app\code\Unbxd\ProductFeed  
