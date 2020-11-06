@@ -2,14 +2,14 @@
   "name": "unbxd/magento2-search",
   "description": "The Magento 2 module, which provides the ability to search the site using the Unbxd service",
   "type": "magento2-module",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "license": [
     "OSL-3.0",
     "AFL-3.0"
   ],
   "require": {
-    "unbxd/magento2-product-feed": ">1.0.67",
-    "unbxd/magento2-search-js": ">1.0.6",
+    "unbxd/magento2-product-feed": ">1.0.68",
+    "unbxd/magento2-search-js": ">1.0.8",
     "php": "~7.0.0|~7.1.0|~7.2.0|~7.3.0|~7.4.0"
   },
   "autoload": {

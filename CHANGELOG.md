@@ -1,4 +1,8 @@
-# Version 1.0.6
+# Version 1.0.7
+## 1.0.7 - November 5, 2020
+### Feature
+- Updated Search SDk to v2.0.0
+- Fixed Encoding of utf 8 characters
 ## 1.0.6 - October 5, 2020
 ### Feature
 - Magento version 2.4 support

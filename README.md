@@ -20,9 +20,9 @@ php bin/magento cache:flush
 
 ### Manual installation
 
-1. Download module Unbxd_ProductFeed [Link](https://github.com/unbxd/Magento-2-Extension/archive/1.0.67.zip)
-1. Download module Unbxd_SearchJs [Link](https://github.com/unbxd/Magento-2-Search/archive/1.0.4.zip)
-2. Download this module [Link](https://github.com/unbxd/Magento-Search-Module/archive/1.0.6.zip)
+1. Download module Unbxd_ProductFeed [Link](https://github.com/unbxd/Magento-2-Extension/archive/1.0.69.zip)
+1. Download module Unbxd_SearchJs [Link](https://github.com/unbxd/Magento-2-Search/archive/1.0.9.zip)
+2. Download this module [Link](https://github.com/unbxd/Magento-Search-Module/archive/1.0.7.zip)
 3. Unzip modules in the folders:
 
     app\code\Unbxd\ProductFeed  
