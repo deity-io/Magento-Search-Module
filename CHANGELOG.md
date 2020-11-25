@@ -1,4 +1,7 @@
-# Version 1.0.7
+# Version 1.0.8
+## 1.0.8 - November 25, 2020
+### Feature
+- Updated package dependency
 ## 1.0.7 - November 5, 2020
 ### Feature
 - Updated Search SDk to v2.0.0
