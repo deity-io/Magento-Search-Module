@@ -1,4 +1,7 @@
-# Version 1.0.8
+# Version 1.0.9
+## 1.0.9 - April 7, 2021
+### Feature
+- Removed Indexer configs
 ## 1.0.8 - November 25, 2020
 ### Feature
 - Updated package dependency
