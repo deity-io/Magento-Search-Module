@@ -1,7 +1,7 @@
 {
   "name": "unbxd/magento2-search",
-  "description": "The Magento 2 module, which provides the ability to search the site using the Unbxd service",
-  "type": "magento2-module",
+  "description": "The Magento 2 meta package, which provides the ability to search the site using the Unbxd service",
+  "type": "metapackage",
   "version": "1.0.9",
   "license": [
     "OSL-3.0",
@@ -11,13 +11,5 @@
     "unbxd/magento2-product-feed": ">1.0.68",
     "unbxd/magento2-search-js": ">1.0.9",
     "php": "~7.0.0|~7.1.0|~7.2.0|~7.3.0|~7.4.0"
-  },
-  "autoload": {
-    "files": [
-      "registration.php"
-    ],
-    "psr-4": {
-      "Unbxd\\Search\\": ""
-    }
   }
 }
